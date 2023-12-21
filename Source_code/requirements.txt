@@ -1,4 +1,0 @@
-plaintext
-Pillow==8.4.0
-tk==0.1.0
-tkcolorpicker==2.2.2
